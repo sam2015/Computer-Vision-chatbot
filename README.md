@@ -1,5 +1,5 @@
 # Project Title
-
+![Alt Text](https://github.com/sam2015/Computer-Vision-chatbot/blob/master/Aura_server/gif_cv.gif)
 One Paragraph of project description goes here
 
 ## Getting Started
