@@ -1,4 +1,4 @@
-# Aura (Compuetr vision bot)
+# Aura (Computer vision bot)
 
 ![Alt Text](https://github.com/sam2015/Computer-Vision-chatbot/blob/master/Aura_server/gif_cv.gif)
 
